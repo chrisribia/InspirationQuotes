@@ -15,12 +15,13 @@ MERGED from [com.google.android.material:material:1.1.0-alpha07] C:\Users\ribia\
 MERGED from [androidx.appcompat:appcompat:1.1.0-alpha05] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\221cb2f121bed3ea6e76908419950f83\appcompat-1.1.0-alpha05\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\747106b7458fdf419ca29fda530b1dcc\core-ktx-1.0.2\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\1595d0672b7970bde509e3870ac1acb0\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
-MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\a718c08ddd75e5c261a41d0f6cde589c\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
-MERGED from [androidx.room:room-ktx:2.1.0-rc01] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\b1a8030a2f4332ed1e44f6af128fa765\room-ktx-2.1.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\b67a95d8520de1c62ee2052e72a0047b\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0-alpha05] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\ff1d701a26ae28ab7f44876d6ba67bf4\navigation-fragment-ktx-2.1.0-alpha05\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment-ktx:1.1.0-beta01] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\097a6a9588d8a49406cf7fb46d3bade0\fragment-ktx-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity-ktx:1.0.0-beta01] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\79fe0d0f29bcca2df735704a79955f4a\activity-ktx-1.0.0-beta01\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0-beta01] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\6fad7dda767af94c076687228c3bc5d6\lifecycle-viewmodel-ktx-2.1.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\a718c08ddd75e5c261a41d0f6cde589c\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.room:room-ktx:2.1.0-rc01] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\b1a8030a2f4332ed1e44f6af128fa765\room-ktx-2.1.0-rc01\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\caceda963cc92300b103a8dfb94ec4d1\lifecycle-extensions-2.0.0\AndroidManifest.xml:17:1-25:12
 MERGED from [androidx.room:room-runtime:2.1.0-rc01] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\6b639f8cea11d94e5ee172433111c5eb\room-runtime-2.1.0-rc01\AndroidManifest.xml:17:1-30:12
 MERGED from [com.xwray:groupie:2.3.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\f37007fa0a3eba3a3bdd5f679f6152e6\groupie-2.3.0\AndroidManifest.xml:2:1-14:12
@@ -30,6 +31,7 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\ribia\.gradle\
 MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\4d6699feabcd6fc41ae3f12be1bd0502\lifecycle-service-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\da811bc04c128cdcf5e02cbf064a3e9c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\a706875e36c095812d49c877dd50d053\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\06a21062ea90b05528b0c5c6d4c6b2f0\media-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\18403acc771aeb8f76a9e0345809aa75\coordinatorlayout-1.1.0-alpha01\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.transition:transition:1.0.1] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\cf6341ea2316b6739a0b88aa515b0830\transition-1.0.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha05] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\da320ab6aec6212cfd22c087ea1339b6\appcompat-resources-1.1.0-alpha05\AndroidManifest.xml:17:1-22:12
@@ -39,8 +41,8 @@ MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha04] C:\Users\ribia\.gradl
 MERGED from [androidx.navigation:navigation-fragment:2.1.0-alpha05] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\9b469cd36a6e112e068c90b7acb0e96b\navigation-fragment-2.1.0-alpha05\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment:1.1.0-beta01] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\57f0459978a6df545943e46e73387db8\fragment-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\6eafb10c44caa5d0b36409cd4fd2e169\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\8e460c57ad852c67e354489ab3945149\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\113488e9e2fbe27c5dc83884656b9d57\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\8e460c57ad852c67e354489ab3945149\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\204d067eaf895091bb43fd9298233551\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha05] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\1313ccf99730b15324e8ba1309101b91\recyclerview-1.1.0-alpha05\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\e5c1cbae0f12899b8512ad32f9559999\customview-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -64,8 +66,8 @@ MERGED from [androidx.sqlite:sqlite:2.0.1] C:\Users\ribia\.gradle\caches\transfo
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\749acde7320afec2583a92bd54d3df3f\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\78648372f4ab357a721f106bc1ea87ee\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\9075c265d158fe951ccd8bb4f2493035\print-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\002a927ea2bde2f438493b7c6a93c92b\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\30bc4d1e51bbe800721d594b80a2d598\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\002a927ea2bde2f438493b7c6a93c92b\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-beta01] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\11455b3daa7d3254be80360aabd0dcd1\lifecycle-viewmodel-2.1.0-beta01\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\a268c5688aeded13f735c6fe4fecca31\savedstate-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
 INJECTED from C:\Users\ribia\AndroidStudioProjects\InspirationQuotes\app\src\main\AndroidManifest.xml:2:1-26:12
@@ -129,18 +131,18 @@ MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\ribia\.gradle\
 		ADDED from C:\Users\ribia\AndroidStudioProjects\InspirationQuotes\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
 		ADDED from C:\Users\ribia\AndroidStudioProjects\InspirationQuotes\app\src\main\AndroidManifest.xml:14:9-40
-activity#com.example.inspirationquotes.RegisterActivity
-ADDED from C:\Users\ribia\AndroidStudioProjects\InspirationQuotes\app\src\main\AndroidManifest.xml:15:9-63
+activity#com.example.inspirationquotes.ui.RegisterActivity
+ADDED from C:\Users\ribia\AndroidStudioProjects\InspirationQuotes\app\src\main\AndroidManifest.xml:15:9-66
 	android:name
-		ADDED from C:\Users\ribia\AndroidStudioProjects\InspirationQuotes\app\src\main\AndroidManifest.xml:15:19-51
-activity#com.example.inspirationquotes.HomeActivity
-ADDED from C:\Users\ribia\AndroidStudioProjects\InspirationQuotes\app\src\main\AndroidManifest.xml:16:9-50
+		ADDED from C:\Users\ribia\AndroidStudioProjects\InspirationQuotes\app\src\main\AndroidManifest.xml:15:19-54
+activity#com.example.inspirationquotes.ui.HomeActivity
+ADDED from C:\Users\ribia\AndroidStudioProjects\InspirationQuotes\app\src\main\AndroidManifest.xml:16:9-53
 	android:name
-		ADDED from C:\Users\ribia\AndroidStudioProjects\InspirationQuotes\app\src\main\AndroidManifest.xml:16:19-47
-activity#com.example.inspirationquotes.MainActivity
+		ADDED from C:\Users\ribia\AndroidStudioProjects\InspirationQuotes\app\src\main\AndroidManifest.xml:16:19-50
+activity#com.example.inspirationquotes.ui.MainActivity
 ADDED from C:\Users\ribia\AndroidStudioProjects\InspirationQuotes\app\src\main\AndroidManifest.xml:17:9-23:20
 	android:name
-		ADDED from C:\Users\ribia\AndroidStudioProjects\InspirationQuotes\app\src\main\AndroidManifest.xml:17:19-47
+		ADDED from C:\Users\ribia\AndroidStudioProjects\InspirationQuotes\app\src\main\AndroidManifest.xml:17:19-50
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\ribia\AndroidStudioProjects\InspirationQuotes\app\src\main\AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
@@ -177,10 +179,8 @@ MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\ribia\.gradle\caches\transfo
 MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\747106b7458fdf419ca29fda530b1dcc\core-ktx-1.0.2\AndroidManifest.xml:5:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\1595d0672b7970bde509e3870ac1acb0\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\1595d0672b7970bde509e3870ac1acb0\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\a718c08ddd75e5c261a41d0f6cde589c\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\a718c08ddd75e5c261a41d0f6cde589c\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
-MERGED from [androidx.room:room-ktx:2.1.0-rc01] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\b1a8030a2f4332ed1e44f6af128fa765\room-ktx-2.1.0-rc01\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.room:room-ktx:2.1.0-rc01] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\b1a8030a2f4332ed1e44f6af128fa765\room-ktx-2.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\b67a95d8520de1c62ee2052e72a0047b\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\b67a95d8520de1c62ee2052e72a0047b\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0-alpha05] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\ff1d701a26ae28ab7f44876d6ba67bf4\navigation-fragment-ktx-2.1.0-alpha05\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0-alpha05] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\ff1d701a26ae28ab7f44876d6ba67bf4\navigation-fragment-ktx-2.1.0-alpha05\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment-ktx:1.1.0-beta01] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\097a6a9588d8a49406cf7fb46d3bade0\fragment-ktx-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
@@ -189,6 +189,10 @@ MERGED from [androidx.activity:activity-ktx:1.0.0-beta01] C:\Users\ribia\.gradle
 MERGED from [androidx.activity:activity-ktx:1.0.0-beta01] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\79fe0d0f29bcca2df735704a79955f4a\activity-ktx-1.0.0-beta01\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0-beta01] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\6fad7dda767af94c076687228c3bc5d6\lifecycle-viewmodel-ktx-2.1.0-beta01\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0-beta01] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\6fad7dda767af94c076687228c3bc5d6\lifecycle-viewmodel-ktx-2.1.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\a718c08ddd75e5c261a41d0f6cde589c\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\a718c08ddd75e5c261a41d0f6cde589c\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.room:room-ktx:2.1.0-rc01] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\b1a8030a2f4332ed1e44f6af128fa765\room-ktx-2.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.1.0-rc01] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\b1a8030a2f4332ed1e44f6af128fa765\room-ktx-2.1.0-rc01\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\caceda963cc92300b103a8dfb94ec4d1\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\caceda963cc92300b103a8dfb94ec4d1\lifecycle-extensions-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.room:room-runtime:2.1.0-rc01] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\6b639f8cea11d94e5ee172433111c5eb\room-runtime-2.1.0-rc01\AndroidManifest.xml:20:5-22:41
@@ -207,6 +211,8 @@ MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ribia\.gradl
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\da811bc04c128cdcf5e02cbf064a3e9c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\a706875e36c095812d49c877dd50d053\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\a706875e36c095812d49c877dd50d053\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\06a21062ea90b05528b0c5c6d4c6b2f0\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\06a21062ea90b05528b0c5c6d4c6b2f0\media-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\18403acc771aeb8f76a9e0345809aa75\coordinatorlayout-1.1.0-alpha01\AndroidManifest.xml:20:5-44
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\18403acc771aeb8f76a9e0345809aa75\coordinatorlayout-1.1.0-alpha01\AndroidManifest.xml:20:5-44
 MERGED from [androidx.transition:transition:1.0.1] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\cf6341ea2316b6739a0b88aa515b0830\transition-1.0.1\AndroidManifest.xml:20:5-44
@@ -225,10 +231,10 @@ MERGED from [androidx.fragment:fragment:1.1.0-beta01] C:\Users\ribia\.gradle\cac
 MERGED from [androidx.fragment:fragment:1.1.0-beta01] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\57f0459978a6df545943e46e73387db8\fragment-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\6eafb10c44caa5d0b36409cd4fd2e169\loader-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\6eafb10c44caa5d0b36409cd4fd2e169\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\8e460c57ad852c67e354489ab3945149\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\8e460c57ad852c67e354489ab3945149\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\113488e9e2fbe27c5dc83884656b9d57\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\113488e9e2fbe27c5dc83884656b9d57\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\8e460c57ad852c67e354489ab3945149\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\8e460c57ad852c67e354489ab3945149\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\204d067eaf895091bb43fd9298233551\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\204d067eaf895091bb43fd9298233551\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha05] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\1313ccf99730b15324e8ba1309101b91\recyclerview-1.1.0-alpha05\AndroidManifest.xml:20:5-44
@@ -275,10 +281,10 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\78648372f4ab357a721f106bc1ea87ee\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\9075c265d158fe951ccd8bb4f2493035\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\9075c265d158fe951ccd8bb4f2493035\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\002a927ea2bde2f438493b7c6a93c92b\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\002a927ea2bde2f438493b7c6a93c92b\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\30bc4d1e51bbe800721d594b80a2d598\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\30bc4d1e51bbe800721d594b80a2d598\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\002a927ea2bde2f438493b7c6a93c92b\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\002a927ea2bde2f438493b7c6a93c92b\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-beta01] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\11455b3daa7d3254be80360aabd0dcd1\lifecycle-viewmodel-2.1.0-beta01\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-beta01] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\11455b3daa7d3254be80360aabd0dcd1\lifecycle-viewmodel-2.1.0-beta01\AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] C:\Users\ribia\.gradle\caches\transforms-2\files-2.1\a268c5688aeded13f735c6fe4fecca31\savedstate-1.0.0-beta01\AndroidManifest.xml:20:5-44

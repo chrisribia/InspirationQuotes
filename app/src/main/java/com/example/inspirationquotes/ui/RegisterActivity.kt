@@ -1,7 +1,8 @@
-package com.example.inspirationquotes
+package com.example.inspirationquotes.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.inspirationquotes.R
 
 class RegisterActivity : AppCompatActivity() {
 
