@@ -20,6 +20,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.inspirationquotes.RegisterActivity" />
         <activity android:name="com.example.inspirationquotes.HomeActivity" />
         <activity android:name="com.example.inspirationquotes.MainActivity" >
             <intent-filter>
